@@ -1,0 +1,2 @@
+UPDATE REPORT_DATA
+   SET age = 26 WHERE AGE IS NULL AND SEX = 'female';
